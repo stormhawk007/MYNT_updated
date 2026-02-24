@@ -295,6 +295,8 @@ We make the following commitments:
 For more details, read our [Privacy Policy](https://prem-k-r.github.io/MaterialYouNewTab/privacy-policy.html).
 
 ## 📜 License
+Original Extensions link and copyright - 
+https://github.com/prem-k-r/MaterialYouNewTab 
 
 Copyright (C) 2024-2026 Prem Kumar
 
